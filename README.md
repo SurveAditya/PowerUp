@@ -24,6 +24,14 @@
 12. Web Notifications
 13. Authenticated Logins
 14. Mobile and Web Responsive
+15.Events
+
+Here is a demo video of our website:
+
+
+https://user-images.githubusercontent.com/100592839/227762035-cce18468-d77a-4d2b-969e-4610c5f73f1f.mp4
+
+
 
 ## Authors
 1. Siddarth Nachane - [contact](https://replit.com/@Sidd065)
